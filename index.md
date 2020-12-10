@@ -1,4 +1,3 @@
-# No clue what I'm doing
 <!DOCTYPE html>
 <html>
 	<head>
@@ -10,5 +9,6 @@
 	<body>
 		<h1>Main Page</h1>
 		Hello world!
+		# No clue what I'm doing
 	</body>
 </html>

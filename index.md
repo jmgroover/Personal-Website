@@ -9,6 +9,6 @@
 	<body>
 		<h1>Main Page</h1>
 		This is a website. 
-		<img src="FamilyPic.jpg" alt="The Fam">
+		<img src="images/FamilyPic.jpg" alt="The Fam">
 	</body>
 </html>

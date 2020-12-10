@@ -8,7 +8,7 @@
 
 	<body>
 		<h1>Main Page</h1>
-		Hello world!
-		# No clue what I'm doing
+		This is a website. 
+		<img src="FamilyPic.jpg" alt="The Fam">
 	</body>
 </html>

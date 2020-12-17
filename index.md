@@ -1,13 +1,51 @@
 <html>
 	<head>
-		<title>
-			This is a title.
-		</title>
+		<title>This is a title.</title>
 	</head>
 
 	<body>
 		<h1>Main Page</h1>
-		This is a website. 
+		<p>This is a website.<\p> 
 		<img src="images/FamilyPic.jpg" alt="The Fam">
+		
+		<table>
+			<tr>
+				<th>Family Member Number</th>
+				<th>Initial</th>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>KB</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>J</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>V</td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>R</td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>M</td>
+			</tr>
+			<tr>
+				<td>6</td>
+				<td>A</td>
+			</tr>
+			<tr>
+				<td>7</td>
+				<td>P</td>
+			</tr>
+			<tr>
+				<td>8</td>
+				<td>W</td>
+			</tr>
+		</table>
+		
 	</body>
 </html>

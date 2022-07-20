@@ -1,7 +1,10 @@
+body {
+  text-align: center;
+}
+
 h1 {  
   color: blue; 
   font-size: 60px;
-  text-align: center;
 }
 
 table, th, td {
@@ -15,6 +18,4 @@ p {
   letter-spacing: 1px;
 }
 
-body {
-  text-align: center;
-}
+

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="../styles/style.css" rel="stylesheet">
+		<title>JG</title>
+		
+		<meta charset="UTF-8">
+		<meta name="description" content="Jesse Groover's Personal Website">
+		<meta name="author" content="Jesse Groover">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+
+	<body>
+    <title>We Are All Philosophers</title>
+    
+		<h1>
+      <strong>Book Title</strong>
+      Book Author
+    </h1>
+		<p>This is for me to collect my thoughts on a book I've recently read.
+		</p> 
+    
+    <a href="../index.html">Back to Home Page</a>
+		
+		
+		
+	</body>
+</html>

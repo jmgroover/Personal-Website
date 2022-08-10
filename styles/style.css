@@ -21,4 +21,16 @@ p {
   text-align: center;
 }
 
+.MainContent {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+
+.OtherPages {
+  border: 10px outset blue;
+  background-color: lightgreen;
+  text-align: center;
+}
+
 

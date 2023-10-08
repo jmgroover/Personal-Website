@@ -27,13 +27,13 @@ p {
 }
 
 .MainContent {
-  text-align: center;
+  text-align: left;
   background-color: white;
   border: none;
 }
 
 .OtherPages {
-  text-align: center;
+  text-align: left;
   background-color: white;
   border: none;
 }
